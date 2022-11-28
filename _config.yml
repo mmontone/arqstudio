@@ -17,7 +17,7 @@ title: Montone Arquitectura
 email: your-email@example.com
 description: > # this means to ignore newlines until "baseurl:"
   Arquitectura de calidad.
-baseurl: "/arqstudio" # the subpath of your site, e.g. /blog
+baseurl: "/arqstudio01" # the subpath of your site, e.g. /blog
 url: "mmontone.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Company Information
